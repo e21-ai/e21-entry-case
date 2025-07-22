@@ -1,7 +1,7 @@
 <img src='./images/e21-banner-transparent-white-full.png#gh-dark-mode-only' alt='e/21'/>
 <img src='./images/e21-banner-transparent-black-full.png#gh-light-mode-only' alt='e/21'/>
 
-# e/21 entry case
+# Entry case
 
 Hi, you survived the first round of "Getting to know the guys", but now we would still like to know how you approach one of our challenges.
 
